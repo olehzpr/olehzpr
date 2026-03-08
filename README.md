@@ -1,10 +1,5 @@
-# 👋 About me
-Working with almost everything related to programming:
-* 🥇 Gold medal at GENIUS Olympiad in robotics category that took place in New York
-* 📚 Created website for managing and simplifying student life
-* 🏫 Active member of IT Student Council at Igor Sikorsky Kyiv Polytechnic Institute
-* 🔍 Algorithms and structures research at University
-* 👨‍💻 Earned prize-winning positions in city and regional competitive programming contests
+# 👋 Про мене
+Нажимаю на кнопочкі (програміст)
 
 
 # 💻 Tech stack
@@ -32,6 +27,6 @@ Working with almost everything related to programming:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 # 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/olegzpr/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-zapara/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/olehzpr/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-zapara/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olehzpr)
